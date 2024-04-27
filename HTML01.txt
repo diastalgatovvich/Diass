@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Менің портфолием</title>
+</head>
+<body>
+    <p>Аты: Диас Талғатұлы</p>
+    <p>Группа: Цифрлық тарих </p>
+    <p>Штрих-код: 6B01609</p>
+    <a href="C:\Users\Admin\Downloads\WhatsApp Image 2024-04-27 at 21.53.41.jpeg">
+</body>
+</html>
