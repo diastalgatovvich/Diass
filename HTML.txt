@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE> менің майтым </TITLE>
+<BODY>
+<P> <H1> YEGINBAY DIAS </H1></P>
+<IMG SRC="IMG_3937>
+</BODY>
+</HTML>
